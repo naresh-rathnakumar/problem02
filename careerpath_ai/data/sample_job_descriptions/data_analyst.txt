@@ -1,0 +1,27 @@
+Role: Data Analyst
+Company: Insights & Analytics Global
+Experience Required: 1-3 Years
+Education: Bachelor's degree in Statistics, Mathematics, Computer Science, Economics or equivalent
+
+Job Overview:
+Seeking an analytical, detail-oriented Data Analyst to translate complex business data into clear, actionable executive insights and dashboards.
+
+Required Technical Skills:
+- Python: Pandas, NumPy, Data Cleaning, Data Transformation
+- Advanced SQL: Window functions, CTEs, complex joins, data aggregation
+- Visualization: Tableau, Power BI, or Matplotlib/Seaborn
+- Statistical Analysis: Hypothesis testing, regression, descriptive statistics
+- Excel: Advanced pivot tables, VLOOKUP/XLOOKUP, summary modeling
+- Data Storytelling & Presentation: Clear communication of metrics to stakeholders
+
+Preferred Technical Skills:
+- Business Intelligence ETL workflows
+- R programming for exploratory statistical computing
+- Cloud Data Warehousing: Google BigQuery, Snowflake, or AWS Redshift
+- Basic Machine Learning concepts (clustering, forecasting)
+- Jupyter Notebooks for reproducible research
+
+Key Responsibilities:
+- Extract, clean, and validate data across multi-table relational databases
+- Design interactive KPI executive dashboards tracking core business performance
+- Identify behavioral trends, anomalies, and revenue optimization opportunities

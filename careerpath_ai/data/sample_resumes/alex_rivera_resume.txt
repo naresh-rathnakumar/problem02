@@ -1,0 +1,44 @@
+ALEX RIVERA
+Email: alex.rivera@example.com | Phone: (555) 382-9104 | Location: Seattle, WA
+GitHub: github.com/alexrivera-dev | LinkedIn: linkedin.com/in/alexrivera-tech
+
+PROFESSIONAL SUMMARY
+Results-driven software developer and aspiring machine learning engineer with 2 years of hands-on experience developing Python backends, data transformation pipelines, and predictive machine learning models. Adept in SQL database querying, Pandas data engineering, and modern REST APIs.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, Bash
+- Frameworks & Libraries: Pandas, NumPy, Scikit-learn, PyTorch, Flask, FastAPI
+- Databases: PostgreSQL, SQLite
+- Developer Tools: Git, GitHub, Linux, VS Code, Postman, Jupyter Notebooks
+- Core Competencies: Machine Learning, REST APIs, Object-Oriented Programming, Data Cleaning, Model Evaluation
+
+WORK EXPERIENCE
+Junior Software Developer | DataFlow Analytics Corp (June 2023 - Present)
+- Engineered scalable backend data ingestion endpoints using Python and FastAPI, handling 150,000+ daily events.
+- Created complex PostgreSQL aggregations and window queries to optimize business analytics dashboards by 35%.
+- Implemented automated data cleaning and preprocessing pipelines using Pandas and NumPy.
+- Built automated unit testing suites with pytest, maintaining 85%+ code test coverage.
+
+Machine Learning Intern | Predictive Systems Inc (Jan 2023 - May 2023)
+- Trained predictive classification models utilizing Scikit-learn (Random Forest, Logistic Regression) to detect customer churn with 88% precision.
+- Performed hyperparameter tuning, cross-validation, and ROC-AUC curve evaluation.
+- Documented model evaluation metrics and collaborated in weekly Agile Scrum standups.
+
+TECHNICAL PROJECTS
+AI-Powered Document Search Engine | Python, PyTorch, FastAPI, PostgreSQL
+- Engineered a semantic vector search service for unstructured text querying using PyTorch embeddings and PostgreSQL pgvector.
+- Designed clean RESTful API contracts with OpenAPI documentation and Swagger UI.
+- Containerized local developer workflows using Docker Compose.
+
+Customer Segmentation & Analytics Pipeline | Python, Pandas, Scikit-learn
+- Processed 500,000+ transaction records using Pandas and NumPy for feature engineering and RFM segmentation.
+- Applied K-Means clustering algorithm to identify 4 distinct buyer personas, increasing target marketing efficiency.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Washington (2019 - 2023)
+- GPA: 3.8 / 4.0
+- Relevant Coursework: Data Structures & Algorithms, Database Systems, Machine Learning, Statistical Inference
+
+CERTIFICATIONS
+- Python for Data Science and Machine Learning (2023)
+- Deep Learning Specialization - Coursera (2024)

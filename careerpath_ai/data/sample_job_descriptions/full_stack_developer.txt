@@ -1,0 +1,27 @@
+Role: Full Stack Web Developer
+Company: Agile Interactive Apps
+Experience Required: 2-4 Years
+Education: Bachelor's degree in Computer Science or equivalent practical experience
+
+Job Overview:
+We are looking for a versatile Full Stack Developer capable of building polished, responsive client web applications and high-performance server APIs.
+
+Required Technical Skills:
+- Frontend: JavaScript (ES6+), TypeScript, React.js (Hooks, Context, State Management)
+- Web Core: HTML5, CSS3, Modern CSS (Tailwind CSS or Styled Components)
+- Backend: Node.js (Express) or Python (FastAPI / Django)
+- Database: PostgreSQL, MySQL, or MongoDB
+- API Integration: RESTful APIs, Axios, Fetch, WebSockets
+- Git version control and GitHub workflows
+
+Preferred Technical Skills:
+- Next.js (Server Components, SSR)
+- GraphQL & Apollo Client
+- Docker containerization
+- CI/CD pipelines & Vercel / AWS deployment
+- Automated testing (Jest, React Testing Library, Cypress)
+
+Key Responsibilities:
+- Implement responsive user interfaces with attention to accessibility and UX
+- Develop secure, well-documented backend endpoints
+- Optimize frontend web vitals and overall bundle size

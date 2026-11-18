@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  careerpath-ai:
+    build: .
+    container_name: careerpath-ai
+    ports:
+      - "8501:8501"
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - OLLAMA_MODEL=llama3.1:8b
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped

@@ -1,0 +1,29 @@
+Role: Python Backend Developer
+Company: Enterprise Cloud Solutions
+Experience Required: 2-4 Years
+Education: Bachelor's degree in Computer Science, Software Engineering or related field
+
+Job Overview:
+We are seeking an experienced Python Developer to build and maintain scalable backend services, high-throughput REST APIs, and database integrations.
+
+Required Technical Skills:
+- Python (Object-Oriented Programming, AsyncIO, Generators)
+- Web Frameworks: FastAPI, Django, or Flask
+- Database Systems: PostgreSQL, SQL query optimization, SQLAlchemy ORM
+- API Design: RESTful APIs, JSON schema validation, OpenAPI/Swagger
+- Testing: pytest, unit testing, integration testing
+- Version Control: Git, GitHub collaboration, PR reviews
+- OS: Linux environment and command line proficiency
+
+Preferred Technical Skills:
+- Docker containerization and Docker Compose
+- Caching & Message Queues: Redis, Celery
+- Cloud: AWS (EC2, S3, RDS)
+- CI/CD: GitHub Actions or GitLab CI
+- Microservices architecture
+
+Key Responsibilities:
+- Architect reliable backend microservices handling high concurrency
+- Write maintainable, test-covered code adhering to PEP 8 standards
+- Optimize complex database queries and prevent latency bottlenecks
+- Partner with frontend engineers to deliver cohesive product features

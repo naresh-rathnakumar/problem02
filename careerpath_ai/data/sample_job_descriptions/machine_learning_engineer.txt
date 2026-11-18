@@ -1,0 +1,29 @@
+Role: Machine Learning Engineer
+Company: Cognitive AI Research Labs
+Experience Required: 2-4 Years
+Education: Master's or Bachelor's degree in Computer Science, Artificial Intelligence, or Data Science
+
+Job Overview:
+Looking for an applied Machine Learning Engineer to design, evaluate, and deploy predictive ML models and automated data pipelines into production systems.
+
+Required Technical Skills:
+- Python (Advanced numerical computing, vectorization)
+- Core ML Frameworks: Scikit-learn, XGBoost, LightGBM
+- Deep Learning: PyTorch or TensorFlow / Keras
+- Data Pipeline & Preprocessing: Pandas, NumPy, Scipy
+- Feature Engineering, Dimensionality Reduction, Outlier Detection
+- Model Evaluation: ROC-AUC, Precision-Recall, Cross-validation, Bias-Variance analysis
+- SQL & Relational Databases for dataset synthesis
+- Git version control
+
+Preferred Technical Skills:
+- MLOps: MLflow, DVC, Weights & Biases
+- Model Serving: TorchServe, Triton, ONNX Runtime, FastAPI
+- Containerization: Docker, Kubernetes
+- Cloud ML: AWS SageMaker, GCP Vertex AI
+- Distributed Computing: Apache Spark, Ray
+
+Key Responsibilities:
+- Develop predictive classification, regression, and clustering algorithms
+- Implement robust cross-validation pipelines preventing data leakage
+- Benchmark and optimize model latency for low-overhead real-time inference

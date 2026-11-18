@@ -1,0 +1,21 @@
+MORGAN LEE
+Email: morgan.lee@cloudops.org | Phone: (555) 729-1049 | Location: Chicago, IL
+
+SUMMARY
+DevOps Engineer with 3 years of experience automating CI/CD pipelines, containerizing microservices, and provisioning AWS cloud infrastructure.
+
+TECHNICAL SKILLS
+- Cloud: AWS (EC2, S3, RDS, IAM, VPC, CloudWatch)
+- DevOps & CI/CD: Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Ansible
+- Scripting: Bash, Python
+- System Administration: Linux (Ubuntu, RHEL), Nginx, Networking (DNS, TCP/IP, SSL)
+- Version Control: Git, GitHub Enterprise
+
+EXPERIENCE
+Cloud Infrastructure Engineer | CloudScale Systems (2022 - Present)
+- Automated deployment of Kubernetes clusters across AWS using Terraform and Helm.
+- Re-architected continuous delivery pipelines in GitHub Actions, slashing build duration from 45m to 12m.
+- Managed Prometheus and Grafana monitoring stacks to ensure 99.95% system uptime.
+
+EDUCATION
+Bachelor of Science in Computer Engineering | Illinois Tech (2018 - 2022)

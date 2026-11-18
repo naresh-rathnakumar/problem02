@@ -1,0 +1,29 @@
+Role: Java Backend Engineer
+Company: Financial Enterprise Systems
+Experience Required: 3-5 Years
+Education: Bachelor's degree in Computer Science or Software Engineering
+
+Job Overview:
+Seeking a skilled Java Developer to build high-performance, fault-tolerant financial microservices using Spring Boot and cloud-native paradigms.
+
+Required Technical Skills:
+- Java (Java 17+, Core Java, Concurrency, Stream API)
+- Frameworks: Spring Boot, Spring Data JPA, Spring Security
+- RESTful Microservices architecture & API contracts
+- Relational Databases: PostgreSQL, Oracle, MySQL, Hibernate ORM
+- Build Tools: Maven or Gradle
+- Unit Testing: JUnit 5, Mockito, AssertJ
+- Version Control: Git
+
+Preferred Technical Skills:
+- Distributed Messaging: Apache Kafka, RabbitMQ
+- Containers & Orchestration: Docker, Kubernetes
+- Cloud: AWS, Azure
+- In-memory Caching: Redis
+- CI/CD: Jenkins, ArgoCD
+- NoSQL: MongoDB
+
+Key Responsibilities:
+- Build robust microservices capable of processing millions of secure transactions
+- Implement stringent unit and integration test suites achieving high coverage
+- Collaborate in Agile sprints adhering to strict design pattern standards

@@ -1,0 +1,20 @@
+SAM TAYLOR
+Email: sam.taylor.student@email.com
+Location: Austin, TX
+
+SUMMARY
+Recent computer science student interested in entry-level software development roles.
+
+EDUCATION
+Bachelor of Science in Information Technology (Expected Graduation: 2025)
+State University
+
+SKILLS
+Python, HTML, CSS, Basic SQL, Microsoft Excel, Communication, Teamwork
+
+PROJECTS
+Personal Portfolio Website
+- Built a personal static website using HTML and CSS to host coursework assignments.
+
+Basic Python Calculator
+- Created a terminal-based calculator program in Python supporting basic arithmetic operations.

@@ -1,0 +1,29 @@
+Role: AI/ML Engineer (Generative AI & LLMs)
+Company: NextGen Intelligence
+Experience Required: 3-5 Years
+Education: Degree in Computer Science, Artificial Intelligence, or Mathematics
+
+Job Overview:
+We are hiring an AI/ML Engineer specializing in Modern Generative AI, Large Language Models (LLMs), RAG architectures, and NLP pipeline engineering.
+
+Required Technical Skills:
+- Python (Expert proficiency)
+- Deep Learning & NLP: PyTorch, Hugging Face Transformers, Tokenizers
+- Generative AI & LLM Frameworks: LangChain, LangGraph, LlamaIndex
+- Vector Databases: ChromaDB, FAISS, Pinecone, or Qdrant
+- Retrieval-Augmented Generation (RAG) architecture and chunking strategies
+- Prompt Engineering, Fine-tuning (LoRA, QLoRA), Model Quantization
+- REST API deployment of AI endpoints using FastAPI
+- Linux and Git version control
+
+Preferred Technical Skills:
+- Local LLM inference runtimes: Ollama, vLLM, TensorRT-LLM
+- Multi-agent orchestration systems
+- MLOps & LLMOps: Evaluation frameworks, TruLens, Ragas
+- Docker & Kubernetes for GPU workloads
+- Cloud Infrastructure: AWS or GCP GPU instances
+
+Key Responsibilities:
+- Architect resilient RAG systems combining semantic embeddings and rerankers
+- Fine-tune open-weight models for specialized domain tasks
+- Build production-ready multi-agent workflows with structured output validation

@@ -1,0 +1,36 @@
+=====================================================
+CAREERPATH AI - CAREER ANALYSIS & ROADMAP REPORT
+=====================================================
+
+1. CANDIDATE PROFILE
+--------------------
+Name: ALEX RIVERA
+Email: alex.rivera@example.com
+Location: Detected from resume
+Total Experience: 1.5 Years
+
+Summary:
+Professional profile analyzed via CareerPath AI parser.
+
+Technical Skills:
+Python, Bash, SQL, Fastapi, Flask, Pytorch, Scikit-Learn, Pandas, Numpy, GIT, Github, Docker, Linux, Postman, Swagger, Jupyter
+
+2. ROLE COMPATIBILITY & MATCH RANKINGS
+---------------------------------------
+- Machine Learning Engineer: 85.1% Overall Match
+  Suitability: Automated analysis indicates active compatibility with Machine Learning Engineer requirements.
+  Missing Skills: Kubernetes
+
+- Python Developer: 75.8% Overall Match
+  Suitability: Automated analysis indicates active compatibility with Python Developer requirements.
+  Missing Skills: Django, Redis
+
+- Data Analyst: 47.0% Overall Match
+  Suitability: Automated analysis indicates active compatibility with Data Analyst requirements.
+  Missing Skills: AWS, Bigquery, Matplotlib, Power Bi, Snowflake, Tableau
+
+3. PERSONALIZED LEARNING ROADMAP
+--------------------------------
+Target Role: Machine Learning Engineer
+Duration: 12-16 Weeks
+Overview: Targeted roadmap designed to bridge competency gaps for the Machine Learning Engineer role.

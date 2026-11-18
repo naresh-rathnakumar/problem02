@@ -1,0 +1,27 @@
+Role: DevOps & Cloud Infrastructure Engineer
+Company: Scalable Cloud Platforms
+Experience Required: 2-5 Years
+Education: Bachelor's in CS, IT, or equivalent industry experience
+
+Job Overview:
+Seeking a dedicated DevOps Engineer to automate infrastructure provisioning, enhance CI/CD delivery pipelines, and ensure cloud system reliability.
+
+Required Technical Skills:
+- Operating Systems: Linux / Unix administration, Shell Scripting (Bash)
+- Containerization & Orchestration: Docker, Kubernetes, Helm Charts
+- Infrastructure as Code (IaC): Terraform or Ansible
+- CI/CD Automation: GitHub Actions, GitLab CI, or Jenkins
+- Cloud Providers: AWS (EC2, VPC, IAM, EKS, CloudWatch) or Azure / GCP
+- Networking Fundamentals: DNS, TCP/IP, Load Balancers, SSL/TLS certificates
+- Git version control
+
+Preferred Technical Skills:
+- Monitoring & Observability: Prometheus, Grafana, ELK Stack / Datadog
+- Security & Compliance: Vulnerability scanning (Trivy, SonarQube)
+- Python or Go for infrastructure automation scripts
+- Service Mesh (Istio) and GitOps (ArgoCD)
+
+Key Responsibilities:
+- Architect and maintain secure CI/CD pipelines enabling zero-downtime deployments
+- Manage Kubernetes clusters across development, staging, and production
+- Enforce infrastructure security, automated backups, and incident alerting
